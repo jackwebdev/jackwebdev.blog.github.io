@@ -22,8 +22,11 @@ I have already found some great resources and guides on how to learn Web Develop
 Current resources I am using:
 * [FreeCodeCamp](https://www.freecodecamp.com/)
 * [My FreeCodeCamp Progress](https://www.freecodecamp.org/portfolio/jackwebdev)
-* [The Web Developer Bootcamp -  By Colt Steele - Udemy](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/)
 * YouTube - I am watching content on YouTube to help learn more.
+* [The Web Developer Bootcamp -  By Colt Steele - Udemy](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/)
+*[The Complete JavaScript Course 2018 - By 
+Jonas Schmedtmann - Udemy](https://www.udemy.com/the-complete-javascript-course/learn/v4/overview)
+
 
 I am able to study most days of the week and several hours on the weekends.
 
