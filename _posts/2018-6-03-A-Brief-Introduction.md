@@ -30,4 +30,5 @@ I am able to study most days of the week and several hours on the weekends.
 
 I wish I had started my blog sooner but now is a good time to start. This blog will help me aim to keep details of my learning progress going forward, I believe that this is the best way for me to keep track of what I have covered. 
 
-Credit to [Jekyll Now](http://github.com/barryclark/jekyll-now/) for creating this bloging tool. 
+#### Credit
+_Credit to [Jekyll Now](http://github.com/barryclark/jekyll-now/) for creating this bloging tool._
