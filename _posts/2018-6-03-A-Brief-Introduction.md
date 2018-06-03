@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3 June 2018 - A Brief Introduction
+title: 03 June 2018 - A Brief Introduction
 ---
 
 This blog created on the 3rd June 2018. Its main purpose is to log my progress while learning Web Development. This blog will allow me to document my new learnings and to keep track of my learning goals.  
