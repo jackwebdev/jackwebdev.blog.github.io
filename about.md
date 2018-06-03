@@ -8,5 +8,5 @@ I have a huge passion for technology. I love to learn new things and to be able 
 
 ### More Information
 
-I will use this blog to keep track of my progress with Web Development.[View more about me here...](https://jackwebdev.github.io/A-Brief-Introduction/)
+I will use this blog to keep track of my progress with Web Development. [View more about me here...](https://jackwebdev.github.io/A-Brief-Introduction/)
 
