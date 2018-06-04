@@ -3,13 +3,13 @@ layout: post
 title: 03 June 2018 - A Brief Introduction
 ---
 
-This blog created on the 3rd June 2018. Its main purpose is to log my progress while learning Web Development. This blog will allow me to document my new learnings and to keep track of my learning goals.  
+This blog was created on the 3rd June 2018. Its main purpose is to log my progress while learning Web Development. This blog will allow me to document my new learnings and to keep track of my learning goals.  
 
 The posts below are FAQ of what my goals are and how the blog will be used.
 
 ## What is my previous web development experience? ##
 
-I remember being as young as 12 when I first got into creating video-game blogs using Google's Blogspot (now Google Blogger) software. The earliest blog I created was for a popular game called Club Penguin where I would blog about the latest game news and cheats. This is where I started to understand the foundations by editing the basic HTML of the blog. As I got older my main focuses were school and I lost interest in maintaining that blog. I wasn't aware at the time but I had learned many skills from that blog. During my early secondary school years, I created a Minecraft server where I used open source Java written mods to create a public multiplayer server, this is where I got more in-depth with creating the website for the small community that played on that multiplayer server. 
+I remember being as young as 12 when I first got into creating video-game blogs using Google's Blogspot (now Google Blogger) software. The earliest blog I created was for a popular game called Club Penguin where I would blog about the latest game news and cheats. This is where I started to understand the foundations by editing the basic HTML of the blog. As I got older my main focuses were school and I lost interest in maintaining that blog. I wasn't aware at the time but I had learned many skills from that blog. During my early secondary school years, I created a public Minecraft server, this is where I got more in-depth with creating the websites for the small community of gamers.
 
 Finishing up from secondary school and moving to college... I always wanted to learn and get more in-depth with coding, I always loved video-games and technology, so I decided to take a computer games development course. Sadly, this course didn't cover the basics or fundamentals and I feel it was a waste of my time. I finished the course with high grades, but I still didn't have the know-how or knowledge to create a video game! I realised that no school will help me. It wasn't until late Nov, 2017 I started to research and aim to self-teach myself. I came across FreeCodeCamp's website where I started the curriculum from very basic HTML knowledge and from then on It has sparked my learning. 
 
