@@ -3,7 +3,7 @@ layout: post
 title: 03 June 2018 - A Brief Introduction
 date: 2018-06-03 19:34:20 BST
 ---
-##Hello World
+# Hello World
 
 This blog was created on the 3rd June 2018. Its main purpose is to log my progress while learning Web Development. This blog will allow me to document my new learnings and to keep track of my learning goals.  
 
