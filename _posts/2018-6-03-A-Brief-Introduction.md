@@ -28,7 +28,7 @@ Current resources I am using:
 * [The Web Developer Bootcamp -  By Colt Steele - Udemy](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/)
 *[The Complete JavaScript Course 2018 - By 
 Jonas Schmedtmann - Udemy](https://www.udemy.com/the-complete-javascript-course/learn/v4/overview)
-
+* Reading Books! [HTML and CSS Book](http://www.htmlandcssbook.com), [JavaScript and jQuery book](http://javascriptbook.com),[Eloquent JavaScript](https://eloquentjavascript.net)
 
 I am able to study most days of the week and several hours on the weekends.
 
